@@ -1,0 +1,100 @@
+0:grasper skillfully dissecting a cystic plate.
+1:surgical team using a grasper to dissect a gallbladder.
+2:precise dissection of omentum with a grasper.
+3:grasper firmly grasping a cystic artery.
+4:cystic duct securely held by a grasper.
+5:grasper efficiently grasping a cystic pedicle.
+6:cystic plate expertly grasped with a grasper.
+7:grasper holding a gallbladder during surgery.
+8:a grasper grasping gut tissue.
+9:grasper carefully grasping the liver.
+10:grasper effectively grasping the omentum.
+11:grasper holding peritoneum in place.
+12:grasper placing tissue in a specimen bag.
+13:grasper used to pack the gallbladder.
+14:retracting the cystic duct using a grasper.
+15:grasper retracting a cystic pedicle.
+16:cystic plate retraction with a grasper.
+17:gallbladder retraction using a grasper.
+18:grasper retracting gut tissue.
+19:grasper gently retracting the liver.
+20:retracting the omentum with a grasper.
+21:grasper retracting peritoneum during surgery.
+22:bipolar device coagulating abdominal wall cavity.
+23:bipolar coagulation of a blood vessel.
+24:cystic artery coagulation using a bipolar device.
+25:bipolar coagulation of a cystic duct.
+26:coagulating cystic pedicle with bipolar instrument.
+27:cystic plate coagulation using bipolar device.
+28:gallbladder coagulation with a bipolar instrument.
+29:bipolar device effectively coagulating the liver.
+30:omentum coagulation using bipolar instrument.
+31:bipolar coagulation of peritoneum during surgery.
+32:adhesion dissection with bipolar instrument.
+33:bipolar dissection of a cystic artery.
+34:cystic duct dissection using bipolar device.
+35:cystic plate dissection with a bipolar instrument.
+36:gallbladder dissection using bipolar device.
+37:omentum dissection with a bipolar instrument.
+38:bipolar device grasping a cystic plate.
+39:bipolar instrument firmly grasping the liver.
+40:bipolar device holding a specimen bag.
+41:bipolar forceps retracting cystic duct during surgery.
+42:using bipolar forceps to retract cystic pedicle.
+43:bipolar forceps retracting gallbladder for better exposure.
+44:liver retraction with bipolar forceps for surgical access.
+45:bipolar forceps retracting omentum during procedure.
+46:hook coagulating a blood vessel to prevent bleeding.
+47:hook coagulator sealing off cystic artery.
+48:hook coagulating cystic duct for a safe dissection.
+49:coagulating cystic pedicle using a hook.
+50:cystic plate coagulation with a hook.
+51:hook coagulator ensuring hemostasis in gallbladder.
+52:liver tissue coagulated by a hook.
+53:hook coagulating omentum during surgery.
+54:hook cutting through a blood vessel.
+55:hook used to cut peritoneum for access.
+56:hook dissecting a blood vessel with precision.
+57:hook dissection of cystic artery for removal.
+58:cystic duct dissected by a hook for surgical intervention.
+59:hook dissecting cystic plate with ease.
+60:gallbladder dissection performed with a hook.
+61:hook delicately dissecting the omentum.
+62:hook dissecting peritoneum to expose surgical area.
+63:hook retracting gallbladder for optimal visualization.
+64:liver retraction using a hook during surgery.
+65:scissors coagulating omentum to prevent bleeding.
+66:scissors cutting adhesion to free up tissue.
+67:blood vessel severed with surgical scissors.
+68:scissors cutting through cystic artery.
+69:cystic duct cut by scissors during surgery.
+70:scissors slicing through cystic plate.
+71:scissors used to cut liver tissue.
+72:omentum cut with scissors for surgical access.
+73:peritoneum sliced open by scissors.
+74:scissors dissecting cystic plate in surgery.
+75:gallbladder dissection using scissors.
+76:scissors dissecting omentum with precision.
+77:clipper applying clip to a blood vessel.
+78:clipper securing cystic artery with a clip.
+79:clipper applying clip to cystic duct.
+80:clipper clipping cystic pedicle for safety.
+81:cystic plate clipped using clipper.
+82:irrigator aspirating fluid from surgical area.
+83:dissecting cystic duct using an irrigator.
+84:irrigator dissecting cystic pedicle in surgery.
+85:cystic plate dissection performed with an irrigator.
+86:gallbladder dissection using an irrigator.
+87:omentum dissected by an irrigator.
+88:irrigator cleaning abdominal wall cavity.
+89:irrigating cystic pedicle to clear surgical field.
+90:irrigator washing liver tissue during surgery.
+91:irrigator retracting gallbladder for better visibility.
+92:irrigator carefully retracting liver during surgery.
+93:irrigator retracting omentum for improved access.
+94:grasper at rest, waiting for its next task.
+95:bipolar forceps idle, ready for action.
+96:electrosurgical hook at standby.
+97:scissors waiting for their next cut.
+98:clipper in a resting position.
+99:irrigator awaiting its next task.

@@ -1,0 +1,8 @@
+start,end,step,text
+15,30.0,Case presentation,"This stage involves introducing the patient's case, their medical history, presenting symptoms, and the surgical plan for the appendectomy"
+30,79.0,First trocar and exposure,The first trocar is inserted to create an access point for the laparoscopic equipment
+79,139.0,2nd and 3rd trocars,"The second and third trocars are inserted to provide additional access points, allowing for better control and manipulation during the operation"
+139,212.0,Exposure,This refers to gaining more visibility and access to the appendix area to facilitate its removal
+212,313.0,Division of the mesoappendix,"The mesoappendix, the fatty tissue connecting the appendix to the ileum, is sectioned off using an electrosurgical device"
+313,382.0,Ligation and retraction,The base of the appendix is sealed off (ligated) and then pulled back (retracted) in preparation for removal
+382,411.008,Extraction,The inflamed appendix is carefully extracted from the body to complete the surgical procedure
