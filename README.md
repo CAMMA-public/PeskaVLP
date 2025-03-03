@@ -1,16 +1,18 @@
 <div align="center">
 <a href="http://camma.u-strasbg.fr/">
-<img src="src/camma_logo.png" width="30%">
+<img src="https://github.com/CAMMA-public/SelfSupSurg/blob/main/static/camma_logo_tr.png" width="30%">
 </a>
 </div>
 
 # **Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation**
-_Kun Yuan, Vinkle Srivastav, Nassir Navab, Nicolas Padoy_
+_Kun Yuan, Vinkle Srivastav, Nassir Navab, Nicolas Padoy_,  **NeurIPS 2024** 
 
-[![arXiv](https://img.shields.io/badge/arxiv-2307.15220-red)](https://arxiv.org/abs/2410.00263)
+[![arXiv](https://img.shields.io/badge/arxiv-2307.15220-red)](https://arxiv.org/abs/2410.00263) [OpenReview](https://openreview.net/forum?id=zuwpeRkJNH&noteId=IgTHiK4DS9)
+
+
 
 This repo contains an open source PyTorch distributed training code for: 
-- Medical Image Analysis paper: [Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures](https://arxiv.org/abs/2307.15220) [1]
+- Under Review Medical Image Analysis paper: [Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures](https://arxiv.org/abs/2307.15220) [1]
 - MICCAI'24 paper: [HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition](https://arxiv.org/abs/2405.10075) [2]
 - NeurIPS'24 Spotlight paper: [Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation](https://arxiv.org/abs/2410.00263) [3]
 
@@ -36,11 +38,13 @@ If you only plan to reuse the pretrained surgical vision-language model from [1,
   organization={Springer}
 }
 
-@article{yuan2024procedure,
-  title={Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation},
-  author={Yuan, Kun and Srivastav, Vinkle and Navab, Nassir and Padoy, Nicolas},
-  journal={arXiv preprint arXiv:2410.00263},
-  year={2024}
+@article{yuan2025procedure,
+  title={Procedure-aware surgical video-language pretraining with hierarchical knowledge augmentation},
+  author={Yuan, Kun and Navab, Nassir and Padoy, Nicolas and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={122952--122983},
+  year={2025}
 }
 ```
 
