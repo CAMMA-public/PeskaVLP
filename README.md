@@ -5,7 +5,7 @@
 </div>
 
 # **[NeurIPS 2024] Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation**
-_Kun Yuan, Vinkle Srivastav, Nassir Navab, Nicolas Padoy_,  **NeurIPS 2024** 
+_Kun Yuan, [Vinkle Srivastav](https://vinkle.github.io/), Nassir Navab, Nicolas Padoy_,  **NeurIPS 2024** 
 
 [![arXiv](https://img.shields.io/badge/arxiv-2307.15220-red)](https://arxiv.org/abs/2410.00263) [OpenReview](https://openreview.net/forum?id=zuwpeRkJNH&noteId=IgTHiK4DS9)
 
