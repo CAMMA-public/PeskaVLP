@@ -12,7 +12,7 @@ _Kun Yuan, [Vinkle Srivastav](https://vinkle.github.io/), Nassir Navab, Nicolas 
 
 
 This repo contains an open source PyTorch distributed training code for: 
-- Under Review Medical Image Analysis paper: [Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures](https://arxiv.org/abs/2307.15220) [1]
+- Medical Image Analysis paper: [Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures](https://arxiv.org/abs/2307.15220) [1]
 - MICCAI'24 paper: [HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition](https://arxiv.org/abs/2405.10075) [2]
 - NeurIPS'24 Spotlight paper: [Procedure-Aware Surgical Video-language Pretraining with Hierarchical Knowledge Augmentation](https://arxiv.org/abs/2410.00263) [3]
 
